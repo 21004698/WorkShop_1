@@ -1,8 +1,8 @@
 # WorkShop1_MAD
 
 ## Date: 24/10/2024
-## Name: NAGINENI ROHITH
-## Reg.no: 212222040105
+## Name: Challa Maheswar
+## Reg.no: 212221040031
 ## Developing an Android Application Pass The Data Between The Activities Using Intent
 
 ## Procedure:
