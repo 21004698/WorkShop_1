@@ -1,8 +1,8 @@
 # WorkShop1_MAD
 
 ## Date: 24/10/2024
-## Name: POKALA GURAVAIAH
-## Reg.no: 212222040114
+## Name: NAGINENI ROHITH
+## Reg.no: 212222040105
 ## Developing an Android Application Pass The Data Between The Activities Using Intent
 
 ## Procedure:
